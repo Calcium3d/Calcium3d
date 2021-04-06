@@ -17,3 +17,6 @@ Im awsomemanNever, a noob coder trying to improve his skills one project at a ti
 ![](https://img.shields.io/badge/LANG-Python-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/EDITOR-VSCode-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/EDITOR-Vim-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)                                                                  
+
+
+### Its just Bio Digital Jazz Man
