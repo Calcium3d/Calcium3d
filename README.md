@@ -1,12 +1,14 @@
 # Heya there 👋
 
-Im awsomemanNever, a noob coder trying to improve his skills one project at a time. I try out anything i can find a intro to, and explore the entire computer science industry. From "Hello World" to Artificial intelligence, from for loops to game design, youll find almost everything in my github profile
+Im awsomemanNever, a noob coder trying to improve his skills one project at a time. I try out anything i can find a intro to, and explore the entire computer science industry. 
 
-# Stats
+Im just a full time student doing a lot of personal projects trying to improve. Probably not doing some good contribution to society but what can i do. Atleast im having fun along the way
+
+# Stats 🔽
 
 <table>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=awsomemanNever)
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vyomaan&theme=dark&show_icons=true)
 
 </table>
 
@@ -17,6 +19,8 @@ Im awsomemanNever, a noob coder trying to improve his skills one project at a ti
 ![](https://img.shields.io/badge/LANG-Python-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/EDITOR-VSCode-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/EDITOR-Vim-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)                                                                  
+&nbsp;  
 
+&nbsp;
 
 ### Its just Bio Digital Jazz Man
