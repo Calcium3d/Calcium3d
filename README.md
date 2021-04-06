@@ -1,6 +1,6 @@
 # Heya there 👋
 
-Im awsomemanNever, a noob coder trying to improve his skills one project at a time. I try out anything i can find a intro to, and explore the entire computer science industry. From "Hello World" to Artificial intelligence
+Im awsomemanNever, a noob coder trying to improve his skills one project at a time. I try out anything i can find a intro to, and explore the entire computer science industry. From "Hello World" to Artificial intelligence, from for loops to game design, youll find almost everything in my github profile
 
 # Stats
 
