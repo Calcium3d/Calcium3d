@@ -23,4 +23,5 @@ Im just a full time student doing a lot of personal projects trying to improve. 
 
 &nbsp;
 
+# My favourite quote 🔖
 ### Its just Bio Digital Jazz Man
