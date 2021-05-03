@@ -8,7 +8,7 @@ Im just a full time student doing a lot of personal projects trying to improve. 
 
 <table>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=awsomemanNever&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=awsomemanNever&theme=radical&show_icons=true)
 
 </table>
 
@@ -24,5 +24,5 @@ Im just a full time student doing a lot of personal projects trying to improve. 
 
 &nbsp;
 
-# My favourite quote 🔖
+&nbsp;
 ### Its just Bio Digital Jazz Man
