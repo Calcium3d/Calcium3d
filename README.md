@@ -22,8 +22,8 @@ Im just a full time student doing a lot of personal projects trying to improve. 
 ![](https://img.shields.io/badge/EDITOR-VSCode-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/EDITOR-Vim-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)  
 ![](https://img.shields.io/badge/FRAMEWORK-React-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC) 
-![](https://img.shields.io/badge/FRAMEWORK-Next-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC) 
-![](https://img.shields.io/badge/FRAMEWORK-Tailwind Css-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC) 
+![](https://img.shields.io/badge/FRAMEWORK-Next-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
+![](https://img.shields.io/badge/FRAMEWORK-Tailwind-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC) 
 
 
 &nbsp;  
