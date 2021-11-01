@@ -14,7 +14,7 @@ Im just a full time student doing a lot of personal projects trying to improve. 
 
 # Tools 🧰
  
-![](https://img.shields.io/badge/OS-Windows/WSL-informational?style=flat&logo=<Mac>&logoColor=white&color=15CDDC)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Mac>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/SHELL-Zsh-informational?style=flat&logo=<Bash>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/LANG-Python-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
 ![](https://img.shields.io/badge/LANG-Javascript-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
