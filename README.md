@@ -8,22 +8,22 @@ Im just a full time student doing a lot of personal projects trying to improve. 
 
 <table>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=awsomemanNever&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Calcium3d&theme=prussian&show_icons=true)
 
 </table>
 
 # Tools 🧰
  
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Mac>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/SHELL-Zsh-informational?style=flat&logo=<Bash>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/LANG-Python-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/LANG-Javascript-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/LANG-Rust-informational?style=flat&logo=<rust>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/EDITOR-VSCode-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/EDITOR-Vim-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)  
-![](https://img.shields.io/badge/FRAMEWORK-React-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC) 
-![](https://img.shields.io/badge/FRAMEWORK-Next-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC)
-![](https://img.shields.io/badge/FRAMEWORK-Tailwind-informational?style=flat&logo=<Python>&logoColor=white&color=15CDDC) 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Mac>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/SHELL-Zsh-informational?style=flat&logo=<Bash>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/LANG-Python-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/LANG-Javascript-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/LANG-Rust-informational?style=flat&logo=<rust>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/EDITOR-VSCode-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/EDITOR-Vim-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)  
+![](https://img.shields.io/badge/FRAMEWORK-React-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3) 
+![](https://img.shields.io/badge/FRAMEWORK-Next-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
+![](https://img.shields.io/badge/FRAMEWORK-Tailwind-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3) 
 
 
 &nbsp;  
