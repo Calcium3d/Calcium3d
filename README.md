@@ -1,34 +1,16 @@
 # Heya there 👋
 
-Im awsomemanNever, a noob coder trying to improve his skills one project at a time. I try out anything i can find a intro to, and explore the entire computer science industry. 
+Im Oishik
 
-Im just a full time student doing a lot of personal projects trying to improve. Probably not doing some good contribution to society but what can i do. Atleast im having fun along the way
+A Student going embracing passions and having fun. 
 
-# Stats 🔽
-
-<table>
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Calcium3d&theme=prussian&show_icons=true)
-
-</table>
-
-# Tools 🧰
- 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Mac>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/SHELL-Zsh-informational?style=flat&logo=<Bash>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/LANG-Python-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/LANG-Javascript-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/LANG-Rust-informational?style=flat&logo=<rust>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/EDITOR-VSCode-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/EDITOR-Vim-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)  
-![](https://img.shields.io/badge/FRAMEWORK-React-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3) 
-![](https://img.shields.io/badge/FRAMEWORK-Next-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3)
-![](https://img.shields.io/badge/FRAMEWORK-Tailwind-informational?style=flat&logo=<Python>&logoColor=white&color=B19FC3) 
+[You can have a look at my blog!](https://the-calcium-blog.vercel.app/)
 
 
-&nbsp;  
+## Stats 🔽
 
-&nbsp;
+![Calcium's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwiN&theme=dark&layout=compact&langs_count=8&card_width=188)
+![Calcium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwiN&theme=dark&layout=compact&show_icons=true&count_private=true&line_height=24
 
-&nbsp;
-### Its just Bio Digital Jazz Man
+
+## Its just Bio Digital Jazz Man
